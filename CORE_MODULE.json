@@ -1,0 +1,11 @@
+{
+  "name": "dc-hv_bootloader",
+  "description": "Nova Core DC-HV module bootloader",
+  "chip": "STM32F303CC",
+  "required_packages": [],
+  "chibios_components": [
+    "nil",
+    "hal",
+    "pal"
+  ]
+}
